@@ -21,17 +21,20 @@
   - Problem:
   - Solution:
   - Unique Features:
+  - Technology:
   - Project History:
   - Value Proposition:
+  - Token Use Cases:
   
 ## Links <a name = "Links"></a>
   - Website: [https://www.](https://www.link1.com/)
   - Whitepaper: [https://www.](https://www.link2.com/)
   - Github: [https://www.](https://www.link3.com/)
-  - Twitter: [https://www.](https://www.link3.com/)
-  - Telegram Announce: [https://www.](https://www.link3.com/)
-  - Telegram Community: [https://www.](https://www.link3.com/)
-  - CoinMarketCap: [https://www.](https://www.link1.com/)
+  - Twitter: [https://www.](https://www.link4.com/)
+  - Telegram Announce: [https://www.](https://www.link5.com/)
+  - Telegram Community: [https://www.](https://www.link6.com/)
+  - CoinMarketCap: [https://www.](https://www.link7.com/)
+  - Block Explorer [https://www.](https://www.link8.com)
 
 ## Tokenomics <a name = "Tokenomics"></a>
   - Circulating Supply:
@@ -39,6 +42,8 @@
   - Maximum Supply:
   - TGE Event Info:
   - Token Distribution:
+  - Token Lockups:
+  - Token Unlock Schedule:
 
 ## Code Overview <a name = "Code"></a>
   - Active developers:
