@@ -85,3 +85,6 @@
 
 ## Final Verdict <a name = "Verdict"></a>
 - Review.
+
+## Teaching People <a name = "Teaching"></a>
+- I'm just showing people how to use GitHub right now.
