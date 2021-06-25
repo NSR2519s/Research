@@ -39,7 +39,7 @@
   - TGE Event Info:
   - Token Distribution:
 
-## Code Overview
+## Code Overview <a name = "Code"></a>
   - Active developers:
   - Quality of work:
   - Errors & Audits:
