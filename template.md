@@ -9,6 +9,7 @@
 - [Tokenomics](#Tokenomics)
 - [Code Overview](#Code)
 - [Team Members](#Team) 
+- [Advisors & Early Backers](#Advisors)
 - [Project Roadmap](#Roadmap)
 - [Community Support](#Community)
 - [Potential Competitors](#Competitors)
@@ -47,6 +48,10 @@
 1. [Team Member 1's LinkedIn](https://www.linkedin.com) - Job title.
 2. [Team Member 2's LinkedIn](https://www.linkedin.com) - Job title.
 3. [Team Member 3's LinkedIn](https://www.linkedin.com) - Job title.
+
+## Advisors & Early Backers <a name = "Advisors"></a>
+  - Good actors?
+  - Bring value to the project?
 
 ## Roadmap <a name = "Roadmap"></a>
 1. Item 1.
