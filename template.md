@@ -16,6 +16,7 @@
 - [Potential Competitors](#Competitors)
 - [Problems and areas of concern](#Problems)
 - [Final Verdict](#Verdict)
+- [Teaching](#Teaching)
 
 ## Overview <a name = "Overview"></a>
   - Problem:
