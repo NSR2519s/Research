@@ -11,6 +11,7 @@
 - [Team Members](#Team) 
 - [Advisors & Early Backers](#Advisors)
 - [Project Roadmap](#Roadmap)
+- [Ecosystem & Network Effect](#Ecosystem)
 - [Community Support](#Community)
 - [Potential Competitors](#Competitors)
 - [Problems and areas of concern](#Problems)
@@ -54,6 +55,11 @@
   - Bring value to the project?
 
 ## Roadmap <a name = "Roadmap"></a>
+1. Item 1.
+2. Item 2.
+3. Item 3.
+
+## Ecosystem & Network Effect <a name = "Ecosystem"></a>
 1. Item 1.
 2. Item 2.
 3. Item 3.
